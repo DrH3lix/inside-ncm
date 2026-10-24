@@ -1,0 +1,86 @@
+[
+{
+"id": "c-own",
+"who": "Claude",
+"prediction": "Re-injecting a puzzle's own codes reproduces the baseline",
+"verdict": "supported"
+},
+{
+"id": "c-k1",
+"who": "Claude",
+"prediction": "Swapping level 1 only: still at least 70% solved",
+"verdict": "supported"
+},
+{
+"id": "c-k3",
+"who": "Claude",
+"prediction": "Through level 3: 40–70% solved",
+"verdict": "not supported"
+},
+{
+"id": "c-k6",
+"who": "Claude",
+"prediction": "Through level 6: under 20% solved",
+"verdict": "not supported"
+},
+{
+"id": "c-k9",
+"who": "Claude",
+"prediction": "Through level 9: under 5% solved; at least 30% of cells take the other puzzle's digit",
+"verdict": "not supported"
+},
+{
+"id": "c-k11",
+"who": "Claude",
+"prediction": "Through level 11: under 5% solved",
+"verdict": "supported"
+},
+{
+"id": "c-clue",
+"who": "Claude",
+"prediction": "Clues at least 90% right through level 6, below 90% at levels 9 and 11",
+"verdict": "partly"
+},
+{
+"id": "c-rand",
+"who": "Claude",
+"prediction": "Random codes within 15 points of donor codes, with no leak",
+"verdict": "supported"
+},
+{
+"id": "g-k13",
+"who": "Gemini",
+"prediction": "Levels 1–3: 81–84% solved at level 1, 68–78% at level 3",
+"verdict": "partly"
+},
+{
+"id": "g-k6",
+"who": "Gemini",
+"prediction": "Through level 6 is the cliff: 22–38% solved, 12–22% of cells take the other puzzle's digit",
+"verdict": "not supported"
+},
+{
+"id": "g-k9",
+"who": "Gemini",
+"prediction": "Through level 9: under 4% solved, 38–52% leak; through level 11: 0% solved, 68–80% leak",
+"verdict": "partly"
+},
+{
+"id": "g-clue",
+"who": "Gemini",
+"prediction": "Clues beat blank cells by more than 25 points at levels 6 and 9",
+"verdict": "not supported"
+},
+{
+"id": "g-rand",
+"who": "Gemini",
+"prediction": "Random codes hurt about 10–15 points more than donor codes at levels 3 and 6",
+"verdict": "supported"
+},
+{
+"id": "g-verdict",
+"who": "Gemini",
+"prediction": "Levels 4–9 do the constraint solving; levels 10–12 only sharpen",
+"verdict": "not supported"
+}
+]

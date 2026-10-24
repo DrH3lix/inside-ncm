@@ -1,0 +1,121 @@
+[
+{
+"id": "c1",
+"test": "J-space structure",
+"who": "Claude",
+"prediction": "NCM has a J-space-like structure",
+"verdict": "supported"
+},
+{
+"id": "g1",
+"test": "J-space structure",
+"who": "Gemini",
+"prediction": "J-space definitively exists in NCM",
+"verdict": "supported"
+},
+{
+"id": "c2",
+"test": "Where content lives",
+"who": "Claude",
+"prediction": "Level matters more than layer: coarse levels hold content, fine levels hold glue words",
+"verdict": "partly"
+},
+{
+"id": "g2",
+"test": "Where content lives",
+"who": "Gemini",
+"prediction": "Coarse levels: nouns and discourse anchors, low rank per slot; mid levels: syntactic scaffolding",
+"verdict": "partly"
+},
+{
+"id": "c3",
+"test": "Control model",
+"who": "Claude",
+"prediction": "Early layers hold the current word, late layers the next and future words",
+"verdict": "supported"
+},
+{
+"id": "c4",
+"test": "Inside-out",
+"who": "Claude",
+"prediction": "NCM's coarse J-space matches its written draft",
+"verdict": "not supported"
+},
+{
+"id": "g3",
+"test": "Depth dynamics",
+"who": "Gemini",
+"prediction": "Early layers duplicate word clouds across upsampled neighbours",
+"verdict": "supported"
+},
+{
+"id": "g4",
+"test": "Depth dynamics",
+"who": "Gemini",
+"prediction": "Middle layers: rank spike and symmetry breaking",
+"verdict": "supported"
+},
+{
+"id": "g5",
+"test": "Depth dynamics",
+"who": "Gemini",
+"prediction": "Middle layers are the J-space sweet spot",
+"verdict": "not supported"
+},
+{
+"id": "c5",
+"test": "Alignment strength",
+"who": "Claude",
+"prediction": "NCM coarse levels more J-space-shaped than anywhere in the control",
+"verdict": "partly"
+},
+{
+"id": "g6",
+"test": "Fine levels",
+"who": "Gemini",
+"prediction": "Tiny Jacobian norms and spectrum collapse at fine levels",
+"verdict": "partly"
+},
+{
+"id": "c6",
+"test": "Concept swap",
+"who": "Claude",
+"prediction": "A coarse swap rewrites the whole story; random pushes add no cats",
+"verdict": "supported"
+},
+{
+"id": "c7",
+"test": "Concept swap",
+"who": "Claude",
+"prediction": "In the control model the swap stays local",
+"verdict": "not supported"
+},
+{
+"id": "g7",
+"test": "Concept swap",
+"who": "Gemini",
+"prediction": "L3 and L5 rewrite the narrative; L7 and L9 give a clumsy local splice",
+"verdict": "supported"
+},
+{
+"id": "g8",
+"test": "Concept swap",
+"who": "Gemini",
+"prediction": "L7 and L9 swaps produce no change",
+"verdict": "not supported"
+},
+{
+"id": "g9",
+"test": "Erasure",
+"who": "Gemini",
+"prediction": "Rejected menu items are actively pushed down from level 4",
+"verdict": "supported"
+},
+{
+"id": "c8",
+"test": "Erasure",
+"who": "Claude",
+"prediction": "Rejected items mostly fade passively",
+"verdict": "not supported"
+}
+]

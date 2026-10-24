@@ -1,0 +1,186 @@
+[
+{
+"id": "ctl_last",
+"measure": "Control: alignment ratio, last layer",
+"unit": "×",
+"kind": "ratio",
+"original": 1.4728,
+"replication": 1.4778
+},
+{
+"id": "ctl_mid",
+"measure": "Control: alignment ratio, middle layers (mean)",
+"unit": "×",
+"kind": "ratio",
+"original": 1.1886,
+"replication": 1.2079
+},
+{
+"id": "ncm_edge_mean",
+"measure": "NCM L3–L6: alignment ratio, first and last layer (mean)",
+"unit": "×",
+"kind": "ratio",
+"original": 3.6334,
+"replication": 3.7367
+},
+{
+"id": "ncm_edge_min",
+"measure": "NCM L3–L6: same, lowest cell",
+"unit": "×",
+"kind": "ratio",
+"original": 2.9112,
+"replication": 2.9309
+},
+{
+"id": "ncm_edge_max",
+"measure": "NCM L3–L6: same, highest cell",
+"unit": "×",
+"kind": "ratio",
+"original": 4.0965,
+"replication": 4.2198
+},
+{
+"id": "ncm_mid_mean",
+"measure": "NCM L3–L6: alignment ratio, middle layers (mean)",
+"unit": "×",
+"kind": "ratio",
+"original": 1.6291,
+"replication": 1.6482
+},
+{
+"id": "ncm_fine_mean",
+"measure": "NCM L7–L12: alignment ratio (mean)",
+"unit": "×",
+"kind": "ratio",
+"original": 2.0473,
+"replication": 2.0263
+},
+{
+"id": "l2_rank",
+"measure": "NCM L2: effective rank at the input layer",
+"unit": "",
+"kind": "rank",
+"original": 1.0711,
+"replication": 1.0715
+},
+{
+"id": "norm_drop",
+"measure": "Jacobian size, L2 ÷ L12 (input layer)",
+"unit": "×",
+"kind": "ratio",
+"original": 311.7404,
+"replication": 359.4981
+},
+{
+"id": "mid_rank_peaks",
+"measure": "Levels whose middle layer has the highest rank (of 11)",
+"unit": "",
+"kind": "count",
+"original": 10,
+"replication": 9
+},
+{
+"id": "ncm_base_cat",
+"measure": "NCM no edit: stories with a cat",
+"unit": "%",
+"kind": "share",
+"original": 0.12,
+"replication": 0.08
+},
+{
+"id": "l5_cat",
+"measure": "NCM swap at L5 (strength 2): stories with a cat",
+"unit": "%",
+"kind": "share",
+"original": 0.98,
+"replication": 1.0
+},
+{
+"id": "l5_dog",
+"measure": "NCM swap at L5 (strength 2): stories with a dog",
+"unit": "%",
+"kind": "share",
+"original": 0.05,
+"replication": 0.05
+},
+{
+"id": "l5_rand_cat",
+"measure": "NCM random push at L5 (strength 2): stories with a cat",
+"unit": "%",
+"kind": "share",
+"original": 0.16,
+"replication": 0.09
+},
+{
+"id": "l3_dog",
+"measure": "NCM swap at L3 (strength 2): stories with a dog",
+"unit": "%",
+"kind": "share",
+"original": 0.23,
+"replication": 0.25
+},
+{
+"id": "l7_cat",
+"measure": "NCM swap at L7 (strength 2): stories with a cat",
+"unit": "%",
+"kind": "share",
+"original": 0.84,
+"replication": 0.97
+},
+{
+"id": "l7_dog",
+"measure": "NCM swap at L7 (strength 2): stories with a dog",
+"unit": "%",
+"kind": "share",
+"original": 0.17,
+"replication": 0.05
+},
+{
+"id": "ctl_l3_cat",
+"measure": "Control swap at layer 3 (strength 1): cat",
+"unit": "%",
+"kind": "share",
+"original": 0.92,
+"replication": 0.98
+},
+{
+"id": "ctl_l3_rand_cat",
+"measure": "Control random push at layer 3 (strength 1): cat",
+"unit": "%",
+"kind": "share",
+"original": 0.09,
+"replication": 0.08
+},
+{
+"id": "cho_L5",
+"measure": "Erasure: kept words at L5 (relative logit)",
+"unit": "",
+"kind": "logit",
+"original": 2.14,
+"replication": 2.07
+},
+{
+"id": "rej_L5",
+"measure": "Erasure: dropped words at L5",
+"unit": "",
+"kind": "logit",
+"original": -0.78,
+"replication": -0.73
+},
+{
+"id": "rej_L12",
+"measure": "Erasure: dropped words at L12",
+"unit": "",
+"kind": "logit",
+"original": -4.18,
+"replication": -4.26
+},
+{
+"id": "neu_L5",
+"measure": "Erasure: neutral words at L5",
+"unit": "",
+"kind": "logit",
+"original": 0.03,
+"replication": -0.05
+}
+]

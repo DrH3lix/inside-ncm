@@ -1,0 +1,802 @@
+[
+{
+"id": "Fin-L3",
+"word": "Fin",
+"level": "L3",
+"level_n": 3,
+"value": 15.8,
+"in_final": true
+},
+{
+"id": "Fin-L4",
+"word": "Fin",
+"level": "L4",
+"level_n": 4,
+"value": 18.8,
+"in_final": true
+},
+{
+"id": "Fin-L5",
+"word": "Fin",
+"level": "L5",
+"level_n": 5,
+"value": 21.6,
+"in_final": true
+},
+{
+"id": "Fin-L6",
+"word": "Fin",
+"level": "L6",
+"level_n": 6,
+"value": 22.0,
+"in_final": true
+},
+{
+"id": "Fin-L7",
+"word": "Fin",
+"level": "L7",
+"level_n": 7,
+"value": 21.3,
+"in_final": true
+},
+{
+"id": "Fin-L8",
+"word": "Fin",
+"level": "L8",
+"level_n": 8,
+"value": 25.9,
+"in_final": true
+},
+{
+"id": "Fin-L9",
+"word": "Fin",
+"level": "L9",
+"level_n": 9,
+"value": 25.1,
+"in_final": true
+},
+{
+"id": "Fin-L10",
+"word": "Fin",
+"level": "L10",
+"level_n": 10,
+"value": 25.7,
+"in_final": true
+},
+{
+"id": "Fin-L11",
+"word": "Fin",
+"level": "L11",
+"level_n": 11,
+"value": 26.3,
+"in_final": true
+},
+{
+"id": "Fin-L12",
+"word": "Fin",
+"level": "L12",
+"level_n": 12,
+"value": 30.2,
+"in_final": true
+},
+{
+"id": "Finny-L3",
+"word": "Finny",
+"level": "L3",
+"level_n": 3,
+"value": 12.4,
+"in_final": false
+},
+{
+"id": "Finny-L4",
+"word": "Finny",
+"level": "L4",
+"level_n": 4,
+"value": 12.5,
+"in_final": false
+},
+{
+"id": "Finny-L5",
+"word": "Finny",
+"level": "L5",
+"level_n": 5,
+"value": 16.1,
+"in_final": false
+},
+{
+"id": "Finny-L6",
+"word": "Finny",
+"level": "L6",
+"level_n": 6,
+"value": 16.8,
+"in_final": false
+},
+{
+"id": "Finny-L7",
+"word": "Finny",
+"level": "L7",
+"level_n": 7,
+"value": 16.4,
+"in_final": false
+},
+{
+"id": "Finny-L8",
+"word": "Finny",
+"level": "L8",
+"level_n": 8,
+"value": 17.1,
+"in_final": false
+},
+{
+"id": "Finny-L9",
+"word": "Finny",
+"level": "L9",
+"level_n": 9,
+"value": 16.2,
+"in_final": false
+},
+{
+"id": "Finny-L10",
+"word": "Finny",
+"level": "L10",
+"level_n": 10,
+"value": 16.2,
+"in_final": false
+},
+{
+"id": "Finny-L11",
+"word": "Finny",
+"level": "L11",
+"level_n": 11,
+"value": 16.0,
+"in_final": false
+},
+{
+"id": "Finny-L12",
+"word": "Finny",
+"level": "L12",
+"level_n": 12,
+"value": 16.1,
+"in_final": false
+},
+{
+"id": "Bubbles-L3",
+"word": "Bubbles",
+"level": "L3",
+"level_n": 3,
+"value": 11.2,
+"in_final": false
+},
+{
+"id": "Bubbles-L4",
+"word": "Bubbles",
+"level": "L4",
+"level_n": 4,
+"value": 13.0,
+"in_final": false
+},
+{
+"id": "Bubbles-L5",
+"word": "Bubbles",
+"level": "L5",
+"level_n": 5,
+"value": 16.1,
+"in_final": false
+},
+{
+"id": "Bubbles-L6",
+"word": "Bubbles",
+"level": "L6",
+"level_n": 6,
+"value": 17.2,
+"in_final": false
+},
+{
+"id": "Bubbles-L7",
+"word": "Bubbles",
+"level": "L7",
+"level_n": 7,
+"value": 17.0,
+"in_final": false
+},
+{
+"id": "Bubbles-L8",
+"word": "Bubbles",
+"level": "L8",
+"level_n": 8,
+"value": 17.9,
+"in_final": false
+},
+{
+"id": "Bubbles-L9",
+"word": "Bubbles",
+"level": "L9",
+"level_n": 9,
+"value": 17.8,
+"in_final": false
+},
+{
+"id": "Bubbles-L10",
+"word": "Bubbles",
+"level": "L10",
+"level_n": 10,
+"value": 17.5,
+"in_final": false
+},
+{
+"id": "Bubbles-L11",
+"word": "Bubbles",
+"level": "L11",
+"level_n": 11,
+"value": 17.1,
+"in_final": false
+},
+{
+"id": "Bubbles-L12",
+"word": "Bubbles",
+"level": "L12",
+"level_n": 12,
+"value": 17.9,
+"in_final": false
+},
+{
+"id": "shark-L3",
+"word": "shark",
+"level": "L3",
+"level_n": 3,
+"value": 12.9,
+"in_final": false
+},
+{
+"id": "shark-L4",
+"word": "shark",
+"level": "L4",
+"level_n": 4,
+"value": 16.0,
+"in_final": false
+},
+{
+"id": "shark-L5",
+"word": "shark",
+"level": "L5",
+"level_n": 5,
+"value": 19.2,
+"in_final": false
+},
+{
+"id": "shark-L6",
+"word": "shark",
+"level": "L6",
+"level_n": 6,
+"value": 15.5,
+"in_final": false
+},
+{
+"id": "shark-L7",
+"word": "shark",
+"level": "L7",
+"level_n": 7,
+"value": 15.9,
+"in_final": false
+},
+{
+"id": "shark-L8",
+"word": "shark",
+"level": "L8",
+"level_n": 8,
+"value": 22.6,
+"in_final": false
+},
+{
+"id": "shark-L9",
+"word": "shark",
+"level": "L9",
+"level_n": 9,
+"value": 22.3,
+"in_final": false
+},
+{
+"id": "shark-L10",
+"word": "shark",
+"level": "L10",
+"level_n": 10,
+"value": 20.7,
+"in_final": false
+},
+{
+"id": "shark-L11",
+"word": "shark",
+"level": "L11",
+"level_n": 11,
+"value": 19.4,
+"in_final": false
+},
+{
+"id": "shark-L12",
+"word": "shark",
+"level": "L12",
+"level_n": 12,
+"value": 17.4,
+"in_final": false
+},
+{
+"id": "dolphin-L3",
+"word": "dolphin",
+"level": "L3",
+"level_n": 3,
+"value": 9.5,
+"in_final": false
+},
+{
+"id": "dolphin-L4",
+"word": "dolphin",
+"level": "L4",
+"level_n": 4,
+"value": 12.7,
+"in_final": false
+},
+{
+"id": "dolphin-L5",
+"word": "dolphin",
+"level": "L5",
+"level_n": 5,
+"value": 16.7,
+"in_final": false
+},
+{
+"id": "dolphin-L6",
+"word": "dolphin",
+"level": "L6",
+"level_n": 6,
+"value": 15.1,
+"in_final": false
+},
+{
+"id": "dolphin-L7",
+"word": "dolphin",
+"level": "L7",
+"level_n": 7,
+"value": 12.9,
+"in_final": false
+},
+{
+"id": "dolphin-L8",
+"word": "dolphin",
+"level": "L8",
+"level_n": 8,
+"value": 19.4,
+"in_final": false
+},
+{
+"id": "dolphin-L9",
+"word": "dolphin",
+"level": "L9",
+"level_n": 9,
+"value": 19.1,
+"in_final": false
+},
+{
+"id": "dolphin-L10",
+"word": "dolphin",
+"level": "L10",
+"level_n": 10,
+"value": 17.9,
+"in_final": false
+},
+{
+"id": "dolphin-L11",
+"word": "dolphin",
+"level": "L11",
+"level_n": 11,
+"value": 16.7,
+"in_final": false
+},
+{
+"id": "dolphin-L12",
+"word": "dolphin",
+"level": "L12",
+"level_n": 12,
+"value": 15.2,
+"in_final": false
+},
+{
+"id": "crab-L3",
+"word": "crab",
+"level": "L3",
+"level_n": 3,
+"value": 12.0,
+"in_final": true
+},
+{
+"id": "crab-L4",
+"word": "crab",
+"level": "L4",
+"level_n": 4,
+"value": 14.4,
+"in_final": true
+},
+{
+"id": "crab-L5",
+"word": "crab",
+"level": "L5",
+"level_n": 5,
+"value": 19.6,
+"in_final": true
+},
+{
+"id": "crab-L6",
+"word": "crab",
+"level": "L6",
+"level_n": 6,
+"value": 22.0,
+"in_final": true
+},
+{
+"id": "crab-L7",
+"word": "crab",
+"level": "L7",
+"level_n": 7,
+"value": 25.3,
+"in_final": true
+},
+{
+"id": "crab-L8",
+"word": "crab",
+"level": "L8",
+"level_n": 8,
+"value": 28.9,
+"in_final": true
+},
+{
+"id": "crab-L9",
+"word": "crab",
+"level": "L9",
+"level_n": 9,
+"value": 28.7,
+"in_final": true
+},
+{
+"id": "crab-L10",
+"word": "crab",
+"level": "L10",
+"level_n": 10,
+"value": 27.7,
+"in_final": true
+},
+{
+"id": "crab-L11",
+"word": "crab",
+"level": "L11",
+"level_n": 11,
+"value": 28.5,
+"in_final": true
+},
+{
+"id": "crab-L12",
+"word": "crab",
+"level": "L12",
+"level_n": 12,
+"value": 32.5,
+"in_final": true
+},
+{
+"id": "duck-L3",
+"word": "duck",
+"level": "L3",
+"level_n": 3,
+"value": 14.8,
+"in_final": true
+},
+{
+"id": "duck-L4",
+"word": "duck",
+"level": "L4",
+"level_n": 4,
+"value": 15.6,
+"in_final": true
+},
+{
+"id": "duck-L5",
+"word": "duck",
+"level": "L5",
+"level_n": 5,
+"value": 19.4,
+"in_final": true
+},
+{
+"id": "duck-L6",
+"word": "duck",
+"level": "L6",
+"level_n": 6,
+"value": 20.2,
+"in_final": true
+},
+{
+"id": "duck-L7",
+"word": "duck",
+"level": "L7",
+"level_n": 7,
+"value": 22.0,
+"in_final": true
+},
+{
+"id": "duck-L8",
+"word": "duck",
+"level": "L8",
+"level_n": 8,
+"value": 23.2,
+"in_final": true
+},
+{
+"id": "duck-L9",
+"word": "duck",
+"level": "L9",
+"level_n": 9,
+"value": 22.4,
+"in_final": true
+},
+{
+"id": "duck-L10",
+"word": "duck",
+"level": "L10",
+"level_n": 10,
+"value": 25.5,
+"in_final": true
+},
+{
+"id": "duck-L11",
+"word": "duck",
+"level": "L11",
+"level_n": 11,
+"value": 27.3,
+"in_final": true
+},
+{
+"id": "duck-L12",
+"word": "duck",
+"level": "L12",
+"level_n": 12,
+"value": 32.1,
+"in_final": true
+},
+{
+"id": "swan-L3",
+"word": "swan",
+"level": "L3",
+"level_n": 3,
+"value": 11.0,
+"in_final": false
+},
+{
+"id": "swan-L4",
+"word": "swan",
+"level": "L4",
+"level_n": 4,
+"value": 12.6,
+"in_final": false
+},
+{
+"id": "swan-L5",
+"word": "swan",
+"level": "L5",
+"level_n": 5,
+"value": 15.1,
+"in_final": false
+},
+{
+"id": "swan-L6",
+"word": "swan",
+"level": "L6",
+"level_n": 6,
+"value": 11.9,
+"in_final": false
+},
+{
+"id": "swan-L7",
+"word": "swan",
+"level": "L7",
+"level_n": 7,
+"value": 12.8,
+"in_final": false
+},
+{
+"id": "swan-L8",
+"word": "swan",
+"level": "L8",
+"level_n": 8,
+"value": 16.0,
+"in_final": false
+},
+{
+"id": "swan-L9",
+"word": "swan",
+"level": "L9",
+"level_n": 9,
+"value": 15.8,
+"in_final": false
+},
+{
+"id": "swan-L10",
+"word": "swan",
+"level": "L10",
+"level_n": 10,
+"value": 16.0,
+"in_final": false
+},
+{
+"id": "swan-L11",
+"word": "swan",
+"level": "L11",
+"level_n": 11,
+"value": 14.0,
+"in_final": false
+},
+{
+"id": "swan-L12",
+"word": "swan",
+"level": "L12",
+"level_n": 12,
+"value": 16.9,
+"in_final": false
+},
+{
+"id": "pond-L3",
+"word": "pond",
+"level": "L3",
+"level_n": 3,
+"value": 14.7,
+"in_final": true
+},
+{
+"id": "pond-L4",
+"word": "pond",
+"level": "L4",
+"level_n": 4,
+"value": 20.3,
+"in_final": true
+},
+{
+"id": "pond-L5",
+"word": "pond",
+"level": "L5",
+"level_n": 5,
+"value": 23.4,
+"in_final": true
+},
+{
+"id": "pond-L6",
+"word": "pond",
+"level": "L6",
+"level_n": 6,
+"value": 23.3,
+"in_final": true
+},
+{
+"id": "pond-L7",
+"word": "pond",
+"level": "L7",
+"level_n": 7,
+"value": 24.9,
+"in_final": true
+},
+{
+"id": "pond-L8",
+"word": "pond",
+"level": "L8",
+"level_n": 8,
+"value": 25.8,
+"in_final": true
+},
+{
+"id": "pond-L9",
+"word": "pond",
+"level": "L9",
+"level_n": 9,
+"value": 26.7,
+"in_final": true
+},
+{
+"id": "pond-L10",
+"word": "pond",
+"level": "L10",
+"level_n": 10,
+"value": 27.1,
+"in_final": true
+},
+{
+"id": "pond-L11",
+"word": "pond",
+"level": "L11",
+"level_n": 11,
+"value": 27.9,
+"in_final": true
+},
+{
+"id": "pond-L12",
+"word": "pond",
+"level": "L12",
+"level_n": 12,
+"value": 34.3,
+"in_final": true
+},
+{
+"id": "beach-L3",
+"word": "beach",
+"level": "L3",
+"level_n": 3,
+"value": 10.0,
+"in_final": true
+},
+{
+"id": "beach-L4",
+"word": "beach",
+"level": "L4",
+"level_n": 4,
+"value": 10.3,
+"in_final": true
+},
+{
+"id": "beach-L5",
+"word": "beach",
+"level": "L5",
+"level_n": 5,
+"value": 12.6,
+"in_final": true
+},
+{
+"id": "beach-L6",
+"word": "beach",
+"level": "L6",
+"level_n": 6,
+"value": 14.3,
+"in_final": true
+},
+{
+"id": "beach-L7",
+"word": "beach",
+"level": "L7",
+"level_n": 7,
+"value": 14.3,
+"in_final": true
+},
+{
+"id": "beach-L8",
+"word": "beach",
+"level": "L8",
+"level_n": 8,
+"value": 23.7,
+"in_final": true
+},
+{
+"id": "beach-L9",
+"word": "beach",
+"level": "L9",
+"level_n": 9,
+"value": 24.6,
+"in_final": true
+},
+{
+"id": "beach-L10",
+"word": "beach",
+"level": "L10",
+"level_n": 10,
+"value": 26.5,
+"in_final": true
+},
+{
+"id": "beach-L11",
+"word": "beach",
+"level": "L11",
+"level_n": 11,
+"value": 25.4,
+"in_final": true
+},
+{
+"id": "beach-L12",
+"word": "beach",
+"level": "L12",
+"level_n": 12,
+"value": 29.8,
+"in_final": true
+}
+]

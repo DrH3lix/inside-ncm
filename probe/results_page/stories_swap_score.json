@@ -1,0 +1,56 @@
+[
+{
+"id": "c1",
+"who": "Claude",
+"prediction": "Re-injecting a story's own codes reproduces it exactly",
+"verdict": "supported"
+},
+{
+"id": "c2",
+"who": "Claude",
+"prediction": "Swapping level 1 only gives a story that follows neither A nor B",
+"verdict": "supported"
+},
+{
+"id": "c3a",
+"who": "Claude",
+"prediction": "Leak 50–75% at level 3, 75–90% at level 5, at least 90% from level 7",
+"verdict": "not supported"
+},
+{
+"id": "c3b",
+"who": "Claude",
+"prediction": "At least 80% of stories follow B from level 3",
+"verdict": "supported"
+},
+{
+"id": "c4",
+"who": "Claude",
+"prediction": "Leak at least 50× Sudoku's at a similar depth",
+"verdict": "supported"
+},
+{
+"id": "c5",
+"who": "Claude",
+"prediction": "Random codes: leak at chance, little of A survives from level 2",
+"verdict": "supported"
+},
+{
+"id": "g1",
+"who": "Gemini",
+"prediction": "Leak 10–25% at level 1, 55–75% at level 3, 85–95% at level 6",
+"verdict": "not supported"
+},
+{
+"id": "g2",
+"who": "Gemini",
+"prediction": "At level 6, leak at least 40× Sudoku's 0.7% (85% confidence)",
+"verdict": "supported"
+},
+{
+"id": "g3",
+"who": "Gemini",
+"prediction": "Prompt strength decides whether coarse edits stick (the idea this tested)",
+"verdict": "supported"
+}
+]

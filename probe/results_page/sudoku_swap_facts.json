@@ -1,0 +1,30 @@
+[
+{
+"key": "k6_hard",
+"value": "72.2%"
+},
+{
+"key": "k6_easy",
+"value": "99.2%"
+},
+{
+"key": "base_hard",
+"value": "84.2%"
+},
+{
+"key": "k9_hard",
+"value": "35.7%"
+},
+{
+"key": "k11_blank",
+"value": "77%"
+},
+{
+"key": "k11_leak",
+"value": "12.6%"
+},
+{
+"key": "k6_rand",
+"value": "61.9%"
+}
+]

@@ -1,0 +1,51 @@
+[
+{
+"id": "ncm-L3",
+"model": "ncm",
+"where": "L3",
+"before": "One day, a big dog and a small cat were playing in the park. The big dog liked to jump on the grass when the little cat did. They both liked to run and jump in the soft grass all day. \"Let's play a game,\" said the big d",
+"after": "One day, a big cat and a small cat went on a trip. The big cat was. The small cat was very smart. They saw many things and had fun. The big cat said, \"I want to find tasty food.\" The small cat said, to want food.\" The s"
+},
+{
+"id": "ncm-L5",
+"model": "ncm",
+"where": "L5",
+"before": "One day, a little girl named Lucy went for a walk with her dog, Max. They liked to run and play in the park. The sun was birds singing, and they were very happy. Lucy and Max went to a big bridge in the park too. Max sa",
+"after": "One day, a little cat named Mimi went for a walk with her cat named Luna. They liked to run and play in the park. They saw many birds and birds. Mimi and Luna were very happy. Mimi and Luna walked to a big rail. They sa"
+},
+{
+"id": "ncm-L7",
+"model": "ncm",
+"where": "L7",
+"before": "One day, a little girl named Lucy went for a walk with her dog, Max. They liked to run and play in the park. The sun was birds singing, and they were very happy. Lucy and Max went to a big bridge in the park too. Max sa",
+"after": "One day, a little girl named Lucy went for a walk with her cat, Max. They liked to run and play in the park. The sun was shining bright, and they were very happy. Lucy and Max went to a big tree in the park. Tom Max saw"
+},
+{
+"id": "ncm-L9",
+"model": "ncm",
+"where": "L9",
+"before": "One day, a little girl named Lucy went for a walk with her dog, Max. They liked to run and play in the park. The sun was birds singing, and they were very happy. Lucy and Max went to a big bridge in the park too. Max sa",
+"after": "One day, a little girl named Lucy went for a walk with her cat, Max. They liked to run and play in the park. The sun was singing singing, and they were very happy. Lucy and Max went to to new walks in the park. Max saw"
+},
+{
+"id": "control-layer1",
+"model": "control",
+"where": "layer 1",
+"before": "Once upon a time, there was a little dog",
+"after": "Once upon a time, there was a little dog Mouse. She wanted to do something fun.  So, she went to the opera.   When Mouse Mouse arrived at the opera, she was so excited. She listened to the beautiful m"
+},
+{
+"id": "control-layer2",
+"model": "control",
+"where": "layer 2",
+"before": "Once upon a time, there was a little dog",
+"after": "Once upon a time, there was a little dog Mouse. She wanted to do something special to serve her friends. So she decided to use her battery to make their toys, enough to fit them all in.  She hopped on"
+},
+{
+"id": "control-layer3",
+"model": "control",
+"where": "layer 3",
+"before": "Once upon a time, there was a little dog",
+"after": "Once upon a time, there was a little dog cat named Kitty. One night, she was very worried. She mouseers had a sneaky plan.  Kitty looked up at the stars one night. She looked up, as one big, shiny moo"
+}
+]

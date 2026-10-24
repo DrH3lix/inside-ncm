@@ -1,0 +1,87 @@
+[
+{
+"key": "lens_stories",
+"value": 64,
+"label": "stories per model used to fit each lens"
+},
+{
+"key": "control_positions",
+"value": 8108,
+"label": "story positions in the control model's lens fit"
+},
+{
+"key": "control_layers",
+"value": 4,
+"label": "transformer layers in the control model"
+},
+{
+"key": "ncm_levels",
+"value": 12,
+"label": "levels in NCM's coarse-to-fine stack"
+},
+{
+"key": "ncm_layers",
+"value": 12,
+"label": "transformer layers in NCM's generator"
+},
+{
+"key": "swap_stories",
+"value": 64,
+"label": "stories per swap condition"
+},
+{
+"key": "erasure_stories",
+"value": 64,
+"label": "stories in the erasure test"
+},
+{
+"key": "erasure_chosen",
+"value": 665,
+"label": "menu words that made it into the story"
+},
+{
+"key": "erasure_rejected",
+"value": 583,
+"label": "menu words that were dropped"
+},
+{
+"key": "erasure_neutral",
+"value": 1248,
+"label": "neutral control words"
+},
+{
+"key": "fit_k",
+"value": 25,
+"label": "word directions allowed per fit"
+},
+{
+"key": "control_fit_minutes",
+"value": 1.5,
+"label": "minutes to fit the control model's lens"
+},
+{
+"key": "ncm_fit_minutes",
+"value": 8.6,
+"label": "minutes to fit NCM's lens (11 levels)"
+},
+{
+"key": "drafts_seconds",
+"value": 16.6,
+"label": "seconds to generate and decode four stories level by level"
+},
+{
+"key": "ncm_weights_mb",
+"value": 578,
+"label": "MB of NCM TinyStories weights"
+},
+{
+"key": "control_weights_mb",
+"value": 291,
+"label": "MB of control-model weights"
+},
+{
+"key": "gpu_gb",
+"value": 16,
+"label": "GB of memory on the one GPU used"
+}
+]

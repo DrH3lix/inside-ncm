@@ -1,0 +1,62 @@
+[
+{
+"key": "n_puzzles",
+"value": "1000"
+},
+{
+"key": "exact_hard",
+"value": "84.2%"
+},
+{
+"key": "exact_easy",
+"value": "99.6%"
+},
+{
+"key": "blank_hard",
+"value": "97.0%"
+},
+{
+"key": "acc_L3",
+"value": "17%"
+},
+{
+"key": "acc_L9",
+"value": "61%"
+},
+{
+"key": "acc_L11",
+"value": "80%"
+},
+{
+"key": "clue_L11",
+"value": "84%"
+},
+{
+"key": "blank_L11",
+"value": "80%"
+},
+{
+"key": "menu_L1",
+"value": "5.9"
+},
+{
+"key": "legal_mid_lo",
+"value": "29%"
+},
+{
+"key": "legal_mid_hi",
+"value": "37%"
+},
+{
+"key": "legal_chance",
+"value": "29%"
+},
+{
+"key": "wrong_legal",
+"value": "98%"
+},
+{
+"key": "wrong_legal_easy",
+"value": "95%"
+}
+]

@@ -1,0 +1,170 @@
+[
+{
+"id": "hard-L1",
+"task": "hard",
+"level_n": 1,
+"legal_share": 0.2912,
+"chance": 0.2876
+},
+{
+"id": "hard-L2",
+"task": "hard",
+"level_n": 2,
+"legal_share": 0.2911,
+"chance": 0.2876
+},
+{
+"id": "hard-L3",
+"task": "hard",
+"level_n": 3,
+"legal_share": 0.2926,
+"chance": 0.2876
+},
+{
+"id": "hard-L4",
+"task": "hard",
+"level_n": 4,
+"legal_share": 0.2965,
+"chance": 0.2876
+},
+{
+"id": "hard-L5",
+"task": "hard",
+"level_n": 5,
+"legal_share": 0.2966,
+"chance": 0.2876
+},
+{
+"id": "hard-L6",
+"task": "hard",
+"level_n": 6,
+"legal_share": 0.3015,
+"chance": 0.2876
+},
+{
+"id": "hard-L7",
+"task": "hard",
+"level_n": 7,
+"legal_share": 0.3067,
+"chance": 0.2876
+},
+{
+"id": "hard-L8",
+"task": "hard",
+"level_n": 8,
+"legal_share": 0.3176,
+"chance": 0.2876
+},
+{
+"id": "hard-L9",
+"task": "hard",
+"level_n": 9,
+"legal_share": 0.333,
+"chance": 0.2876
+},
+{
+"id": "hard-L10",
+"task": "hard",
+"level_n": 10,
+"legal_share": 0.3515,
+"chance": 0.2876
+},
+{
+"id": "hard-L11",
+"task": "hard",
+"level_n": 11,
+"legal_share": 0.3672,
+"chance": 0.2876
+},
+{
+"id": "hard-L12",
+"task": "hard",
+"level_n": 12,
+"legal_share": 0.9711,
+"chance": 0.2876
+},
+{
+"id": "easy-L1",
+"task": "easy",
+"level_n": 1,
+"legal_share": 0.1768,
+"chance": 0.1744
+},
+{
+"id": "easy-L2",
+"task": "easy",
+"level_n": 2,
+"legal_share": 0.1767,
+"chance": 0.1744
+},
+{
+"id": "easy-L3",
+"task": "easy",
+"level_n": 3,
+"legal_share": 0.1786,
+"chance": 0.1744
+},
+{
+"id": "easy-L4",
+"task": "easy",
+"level_n": 4,
+"legal_share": 0.1803,
+"chance": 0.1744
+},
+{
+"id": "easy-L5",
+"task": "easy",
+"level_n": 5,
+"legal_share": 0.18,
+"chance": 0.1744
+},
+{
+"id": "easy-L6",
+"task": "easy",
+"level_n": 6,
+"legal_share": 0.1852,
+"chance": 0.1744
+},
+{
+"id": "easy-L7",
+"task": "easy",
+"level_n": 7,
+"legal_share": 0.1909,
+"chance": 0.1744
+},
+{
+"id": "easy-L8",
+"task": "easy",
+"level_n": 8,
+"legal_share": 0.1987,
+"chance": 0.1744
+},
+{
+"id": "easy-L9",
+"task": "easy",
+"level_n": 9,
+"legal_share": 0.2077,
+"chance": 0.1744
+},
+{
+"id": "easy-L10",
+"task": "easy",
+"level_n": 10,
+"legal_share": 0.2135,
+"chance": 0.1744
+},
+{
+"id": "easy-L11",
+"task": "easy",
+"level_n": 11,
+"legal_share": 0.2203,
+"chance": 0.1744
+},
+{
+"id": "easy-L12",
+"task": "easy",
+"level_n": 12,
+"legal_share": 0.9565,
+"chance": 0.1744
+}
+]

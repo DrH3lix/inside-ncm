@@ -1,0 +1,65 @@
+[
+{
+"id": "s1a",
+"test": "Accuracy",
+"who": "Claude",
+"prediction": "Easy puzzles: at least 85% solved exactly",
+"verdict": "supported"
+},
+{
+"id": "s1b",
+"test": "Accuracy",
+"who": "Claude",
+"prediction": "Hard puzzles: 30–80% solved exactly",
+"verdict": "not supported"
+},
+{
+"id": "s1c",
+"test": "Accuracy",
+"who": "Claude",
+"prediction": "Hard puzzles: at least 90% of blank cells right",
+"verdict": "supported"
+},
+{
+"id": "s2",
+"test": "Drafts",
+"who": "Claude",
+"prediction": "Near chance through L3, past 50% around L7–L9, clue cells not resolved much earlier than blanks",
+"verdict": "supported"
+},
+{
+"id": "s3a",
+"test": "Menus",
+"who": "Claude",
+"prediction": "Menus of 2–4 digits per cell with the true digit on them at least 80% of the time",
+"verdict": "not supported"
+},
+{
+"id": "s3b",
+"test": "Menus",
+"who": "Claude",
+"prediction": "Candidates only modestly enriched for legal digits (1.0–1.5×)",
+"verdict": "supported"
+},
+{
+"id": "s4a",
+"test": "Erasure",
+"who": "Claude",
+"prediction": "Dropped digits fall faster than digits never considered",
+"verdict": "supported"
+},
+{
+"id": "s4b",
+"test": "Erasure",
+"who": "Claude",
+"prediction": "Dropped digits end below digits never considered, by at least 1 logit",
+"verdict": "not supported"
+},
+{
+"id": "s5",
+"test": "Errors",
+"who": "Claude",
+"prediction": "Most wrong cells had the true digit on the menu",
+"verdict": "uninformative"
+}
+]

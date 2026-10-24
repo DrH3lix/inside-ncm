@@ -1,0 +1,242 @@
+[
+{
+"id": "chosen-L3",
+"group": "chosen",
+"level": "L3",
+"level_n": 3,
+"mean": 0.0,
+"se": 0.0
+},
+{
+"id": "chosen-L4",
+"group": "chosen",
+"level": "L4",
+"level_n": 4,
+"mean": 1.22,
+"se": 0.08
+},
+{
+"id": "chosen-L5",
+"group": "chosen",
+"level": "L5",
+"level_n": 5,
+"mean": 2.14,
+"se": 0.13
+},
+{
+"id": "chosen-L6",
+"group": "chosen",
+"level": "L6",
+"level_n": 6,
+"mean": 2.97,
+"se": 0.16
+},
+{
+"id": "chosen-L7",
+"group": "chosen",
+"level": "L7",
+"level_n": 7,
+"mean": 3.24,
+"se": 0.2
+},
+{
+"id": "chosen-L8",
+"group": "chosen",
+"level": "L8",
+"level_n": 8,
+"mean": 2.62,
+"se": 0.27
+},
+{
+"id": "chosen-L9",
+"group": "chosen",
+"level": "L9",
+"level_n": 9,
+"mean": 2.49,
+"se": 0.29
+},
+{
+"id": "chosen-L10",
+"group": "chosen",
+"level": "L10",
+"level_n": 10,
+"mean": 2.16,
+"se": 0.31
+},
+{
+"id": "chosen-L11",
+"group": "chosen",
+"level": "L11",
+"level_n": 11,
+"mean": 1.92,
+"se": 0.32
+},
+{
+"id": "chosen-L12",
+"group": "chosen",
+"level": "L12",
+"level_n": 12,
+"mean": 0.6,
+"se": 0.37
+},
+{
+"id": "rejected-L3",
+"group": "rejected",
+"level": "L3",
+"level_n": 3,
+"mean": 0.0,
+"se": 0.0
+},
+{
+"id": "rejected-L4",
+"group": "rejected",
+"level": "L4",
+"level_n": 4,
+"mean": -0.29,
+"se": 0.07
+},
+{
+"id": "rejected-L5",
+"group": "rejected",
+"level": "L5",
+"level_n": 5,
+"mean": -0.78,
+"se": 0.12
+},
+{
+"id": "rejected-L6",
+"group": "rejected",
+"level": "L6",
+"level_n": 6,
+"mean": -0.87,
+"se": 0.14
+},
+{
+"id": "rejected-L7",
+"group": "rejected",
+"level": "L7",
+"level_n": 7,
+"mean": -1.23,
+"se": 0.15
+},
+{
+"id": "rejected-L8",
+"group": "rejected",
+"level": "L8",
+"level_n": 8,
+"mean": -1.97,
+"se": 0.18
+},
+{
+"id": "rejected-L9",
+"group": "rejected",
+"level": "L9",
+"level_n": 9,
+"mean": -2.37,
+"se": 0.18
+},
+{
+"id": "rejected-L10",
+"group": "rejected",
+"level": "L10",
+"level_n": 10,
+"mean": -2.63,
+"se": 0.18
+},
+{
+"id": "rejected-L11",
+"group": "rejected",
+"level": "L11",
+"level_n": 11,
+"mean": -2.96,
+"se": 0.19
+},
+{
+"id": "rejected-L12",
+"group": "rejected",
+"level": "L12",
+"level_n": 12,
+"mean": -4.18,
+"se": 0.18
+},
+{
+"id": "neutral-L3",
+"group": "neutral",
+"level": "L3",
+"level_n": 3,
+"mean": 0.0,
+"se": 0.0
+},
+{
+"id": "neutral-L4",
+"group": "neutral",
+"level": "L4",
+"level_n": 4,
+"mean": 0.04,
+"se": 0.04
+},
+{
+"id": "neutral-L5",
+"group": "neutral",
+"level": "L5",
+"level_n": 5,
+"mean": 0.03,
+"se": 0.05
+},
+{
+"id": "neutral-L6",
+"group": "neutral",
+"level": "L6",
+"level_n": 6,
+"mean": 0.02,
+"se": 0.06
+},
+{
+"id": "neutral-L7",
+"group": "neutral",
+"level": "L7",
+"level_n": 7,
+"mean": 0.01,
+"se": 0.07
+},
+{
+"id": "neutral-L8",
+"group": "neutral",
+"level": "L8",
+"level_n": 8,
+"mean": 0.02,
+"se": 0.08
+},
+{
+"id": "neutral-L9",
+"group": "neutral",
+"level": "L9",
+"level_n": 9,
+"mean": -0.01,
+"se": 0.08
+},
+{
+"id": "neutral-L10",
+"group": "neutral",
+"level": "L10",
+"level_n": 10,
+"mean": 0.03,
+"se": 0.08
+},
+{
+"id": "neutral-L11",
+"group": "neutral",
+"level": "L11",
+"level_n": 11,
+"mean": 0.01,
+"se": 0.08
+},
+{
+"id": "neutral-L12",
+"group": "neutral",
+"level": "L12",
+"level_n": 12,
+"mean": 0.08,
+"se": 0.09
+}
+]

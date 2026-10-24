@@ -1,0 +1,66 @@
+[
+{
+"id": "original-L3",
+"run": "original",
+"level": "L3",
+"level_n": 3,
+"swap_kept": 0.26,
+"random_kept": 0.34
+},
+{
+"id": "original-L5",
+"run": "original",
+"level": "L5",
+"level_n": 5,
+"swap_kept": 0.43,
+"random_kept": 0.5
+},
+{
+"id": "original-L7",
+"run": "original",
+"level": "L7",
+"level_n": 7,
+"swap_kept": 0.69,
+"random_kept": 0.73
+},
+{
+"id": "original-L9",
+"run": "original",
+"level": "L9",
+"level_n": 9,
+"swap_kept": 0.89,
+"random_kept": 0.91
+},
+{
+"id": "replication-L3",
+"run": "replication",
+"level": "L3",
+"level_n": 3,
+"swap_kept": 0.26,
+"random_kept": 0.33
+},
+{
+"id": "replication-L5",
+"run": "replication",
+"level": "L5",
+"level_n": 5,
+"swap_kept": 0.44,
+"random_kept": 0.5
+},
+{
+"id": "replication-L7",
+"run": "replication",
+"level": "L7",
+"level_n": 7,
+"swap_kept": 0.72,
+"random_kept": 0.75
+},
+{
+"id": "replication-L9",
+"run": "replication",
+"level": "L9",
+"level_n": 9,
+"swap_kept": 0.9,
+"random_kept": 0.92
+}
+]

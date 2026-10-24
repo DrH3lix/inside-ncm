@@ -1,0 +1,1482 @@
+[
+{
+"id": "ncm-L2-0",
+"model": "ncm",
+"level": "L2",
+"level_n": 2,
+"codes": 8,
+"depth": 0,
+"norm": 19.9626,
+"eff_rank": 1.0711
+},
+{
+"id": "ncm-L2-1",
+"model": "ncm",
+"level": "L2",
+"level_n": 2,
+"codes": 8,
+"depth": 1,
+"norm": 5.2281,
+"eff_rank": 1.3086
+},
+{
+"id": "ncm-L2-2",
+"model": "ncm",
+"level": "L2",
+"level_n": 2,
+"codes": 8,
+"depth": 2,
+"norm": 2.2366,
+"eff_rank": 1.6185
+},
+{
+"id": "ncm-L2-3",
+"model": "ncm",
+"level": "L2",
+"level_n": 2,
+"codes": 8,
+"depth": 3,
+"norm": 1.2044,
+"eff_rank": 2.2911
+},
+{
+"id": "ncm-L2-4",
+"model": "ncm",
+"level": "L2",
+"level_n": 2,
+"codes": 8,
+"depth": 4,
+"norm": 1.1345,
+"eff_rank": 2.6302
+},
+{
+"id": "ncm-L2-5",
+"model": "ncm",
+"level": "L2",
+"level_n": 2,
+"codes": 8,
+"depth": 5,
+"norm": 1.1137,
+"eff_rank": 2.8674
+},
+{
+"id": "ncm-L2-6",
+"model": "ncm",
+"level": "L2",
+"level_n": 2,
+"codes": 8,
+"depth": 6,
+"norm": 1.0631,
+"eff_rank": 3.409
+},
+{
+"id": "ncm-L2-7",
+"model": "ncm",
+"level": "L2",
+"level_n": 2,
+"codes": 8,
+"depth": 7,
+"norm": 1.0777,
+"eff_rank": 3.6668
+},
+{
+"id": "ncm-L2-8",
+"model": "ncm",
+"level": "L2",
+"level_n": 2,
+"codes": 8,
+"depth": 8,
+"norm": 1.116,
+"eff_rank": 3.8852
+},
+{
+"id": "ncm-L2-9",
+"model": "ncm",
+"level": "L2",
+"level_n": 2,
+"codes": 8,
+"depth": 9,
+"norm": 1.2378,
+"eff_rank": 4.209
+},
+{
+"id": "ncm-L2-10",
+"model": "ncm",
+"level": "L2",
+"level_n": 2,
+"codes": 8,
+"depth": 10,
+"norm": 1.4228,
+"eff_rank": 4.2812
+},
+{
+"id": "ncm-L2-11",
+"model": "ncm",
+"level": "L2",
+"level_n": 2,
+"codes": 8,
+"depth": 11,
+"norm": 1.7641,
+"eff_rank": 3.7683
+},
+{
+"id": "ncm-L2-12",
+"model": "ncm",
+"level": "L2",
+"level_n": 2,
+"codes": 8,
+"depth": 12,
+"norm": 2.6251,
+"eff_rank": 2.6175
+},
+{
+"id": "ncm-L3-0",
+"model": "ncm",
+"level": "L3",
+"level_n": 3,
+"codes": 16,
+"depth": 0,
+"norm": 9.4435,
+"eff_rank": 29.0484
+},
+{
+"id": "ncm-L3-1",
+"model": "ncm",
+"level": "L3",
+"level_n": 3,
+"codes": 16,
+"depth": 1,
+"norm": 3.8368,
+"eff_rank": 27.0071
+},
+{
+"id": "ncm-L3-2",
+"model": "ncm",
+"level": "L3",
+"level_n": 3,
+"codes": 16,
+"depth": 2,
+"norm": 1.9975,
+"eff_rank": 29.6968
+},
+{
+"id": "ncm-L3-3",
+"model": "ncm",
+"level": "L3",
+"level_n": 3,
+"codes": 16,
+"depth": 3,
+"norm": 1.6993,
+"eff_rank": 38.8306
+},
+{
+"id": "ncm-L3-4",
+"model": "ncm",
+"level": "L3",
+"level_n": 3,
+"codes": 16,
+"depth": 4,
+"norm": 1.9635,
+"eff_rank": 38.8822
+},
+{
+"id": "ncm-L3-5",
+"model": "ncm",
+"level": "L3",
+"level_n": 3,
+"codes": 16,
+"depth": 5,
+"norm": 2.3017,
+"eff_rank": 34.258
+},
+{
+"id": "ncm-L3-6",
+"model": "ncm",
+"level": "L3",
+"level_n": 3,
+"codes": 16,
+"depth": 6,
+"norm": 2.3006,
+"eff_rank": 36.5311
+},
+{
+"id": "ncm-L3-7",
+"model": "ncm",
+"level": "L3",
+"level_n": 3,
+"codes": 16,
+"depth": 7,
+"norm": 2.1601,
+"eff_rank": 39.3775
+},
+{
+"id": "ncm-L3-8",
+"model": "ncm",
+"level": "L3",
+"level_n": 3,
+"codes": 16,
+"depth": 8,
+"norm": 1.8064,
+"eff_rank": 42.4662
+},
+{
+"id": "ncm-L3-9",
+"model": "ncm",
+"level": "L3",
+"level_n": 3,
+"codes": 16,
+"depth": 9,
+"norm": 1.6865,
+"eff_rank": 45.1992
+},
+{
+"id": "ncm-L3-10",
+"model": "ncm",
+"level": "L3",
+"level_n": 3,
+"codes": 16,
+"depth": 10,
+"norm": 1.4775,
+"eff_rank": 44.0624
+},
+{
+"id": "ncm-L3-11",
+"model": "ncm",
+"level": "L3",
+"level_n": 3,
+"codes": 16,
+"depth": 11,
+"norm": 1.3411,
+"eff_rank": 38.964
+},
+{
+"id": "ncm-L3-12",
+"model": "ncm",
+"level": "L3",
+"level_n": 3,
+"codes": 16,
+"depth": 12,
+"norm": 1.483,
+"eff_rank": 26.2563
+},
+{
+"id": "ncm-L4-0",
+"model": "ncm",
+"level": "L4",
+"level_n": 4,
+"codes": 24,
+"depth": 0,
+"norm": 8.5944,
+"eff_rank": 46.0538
+},
+{
+"id": "ncm-L4-1",
+"model": "ncm",
+"level": "L4",
+"level_n": 4,
+"codes": 24,
+"depth": 1,
+"norm": 4.0674,
+"eff_rank": 42.512
+},
+{
+"id": "ncm-L4-2",
+"model": "ncm",
+"level": "L4",
+"level_n": 4,
+"codes": 24,
+"depth": 2,
+"norm": 2.8243,
+"eff_rank": 46.1407
+},
+{
+"id": "ncm-L4-3",
+"model": "ncm",
+"level": "L4",
+"level_n": 4,
+"codes": 24,
+"depth": 3,
+"norm": 2.6091,
+"eff_rank": 54.7169
+},
+{
+"id": "ncm-L4-4",
+"model": "ncm",
+"level": "L4",
+"level_n": 4,
+"codes": 24,
+"depth": 4,
+"norm": 2.8414,
+"eff_rank": 54.5766
+},
+{
+"id": "ncm-L4-5",
+"model": "ncm",
+"level": "L4",
+"level_n": 4,
+"codes": 24,
+"depth": 5,
+"norm": 3.1103,
+"eff_rank": 50.8876
+},
+{
+"id": "ncm-L4-6",
+"model": "ncm",
+"level": "L4",
+"level_n": 4,
+"codes": 24,
+"depth": 6,
+"norm": 3.1421,
+"eff_rank": 53.0041
+},
+{
+"id": "ncm-L4-7",
+"model": "ncm",
+"level": "L4",
+"level_n": 4,
+"codes": 24,
+"depth": 7,
+"norm": 2.9833,
+"eff_rank": 57.0985
+},
+{
+"id": "ncm-L4-8",
+"model": "ncm",
+"level": "L4",
+"level_n": 4,
+"codes": 24,
+"depth": 8,
+"norm": 2.4055,
+"eff_rank": 61.2775
+},
+{
+"id": "ncm-L4-9",
+"model": "ncm",
+"level": "L4",
+"level_n": 4,
+"codes": 24,
+"depth": 9,
+"norm": 2.1788,
+"eff_rank": 64.7844
+},
+{
+"id": "ncm-L4-10",
+"model": "ncm",
+"level": "L4",
+"level_n": 4,
+"codes": 24,
+"depth": 10,
+"norm": 1.7291,
+"eff_rank": 64.6209
+},
+{
+"id": "ncm-L4-11",
+"model": "ncm",
+"level": "L4",
+"level_n": 4,
+"codes": 24,
+"depth": 11,
+"norm": 1.4733,
+"eff_rank": 60.0396
+},
+{
+"id": "ncm-L4-12",
+"model": "ncm",
+"level": "L4",
+"level_n": 4,
+"codes": 24,
+"depth": 12,
+"norm": 1.5708,
+"eff_rank": 41.9316
+},
+{
+"id": "ncm-L5-0",
+"model": "ncm",
+"level": "L5",
+"level_n": 5,
+"codes": 32,
+"depth": 0,
+"norm": 5.3582,
+"eff_rank": 63.1952
+},
+{
+"id": "ncm-L5-1",
+"model": "ncm",
+"level": "L5",
+"level_n": 5,
+"codes": 32,
+"depth": 1,
+"norm": 3.1372,
+"eff_rank": 62.9759
+},
+{
+"id": "ncm-L5-2",
+"model": "ncm",
+"level": "L5",
+"level_n": 5,
+"codes": 32,
+"depth": 2,
+"norm": 2.466,
+"eff_rank": 65.6789
+},
+{
+"id": "ncm-L5-3",
+"model": "ncm",
+"level": "L5",
+"level_n": 5,
+"codes": 32,
+"depth": 3,
+"norm": 2.6055,
+"eff_rank": 64.6309
+},
+{
+"id": "ncm-L5-4",
+"model": "ncm",
+"level": "L5",
+"level_n": 5,
+"codes": 32,
+"depth": 4,
+"norm": 2.7931,
+"eff_rank": 63.9104
+},
+{
+"id": "ncm-L5-5",
+"model": "ncm",
+"level": "L5",
+"level_n": 5,
+"codes": 32,
+"depth": 5,
+"norm": 2.8599,
+"eff_rank": 66.6024
+},
+{
+"id": "ncm-L5-6",
+"model": "ncm",
+"level": "L5",
+"level_n": 5,
+"codes": 32,
+"depth": 6,
+"norm": 3.1044,
+"eff_rank": 63.2613
+},
+{
+"id": "ncm-L5-7",
+"model": "ncm",
+"level": "L5",
+"level_n": 5,
+"codes": 32,
+"depth": 7,
+"norm": 3.105,
+"eff_rank": 65.1255
+},
+{
+"id": "ncm-L5-8",
+"model": "ncm",
+"level": "L5",
+"level_n": 5,
+"codes": 32,
+"depth": 8,
+"norm": 2.5344,
+"eff_rank": 67.8246
+},
+{
+"id": "ncm-L5-9",
+"model": "ncm",
+"level": "L5",
+"level_n": 5,
+"codes": 32,
+"depth": 9,
+"norm": 2.325,
+"eff_rank": 70.0842
+},
+{
+"id": "ncm-L5-10",
+"model": "ncm",
+"level": "L5",
+"level_n": 5,
+"codes": 32,
+"depth": 10,
+"norm": 1.7565,
+"eff_rank": 75.8826
+},
+{
+"id": "ncm-L5-11",
+"model": "ncm",
+"level": "L5",
+"level_n": 5,
+"codes": 32,
+"depth": 11,
+"norm": 1.4206,
+"eff_rank": 77.7067
+},
+{
+"id": "ncm-L5-12",
+"model": "ncm",
+"level": "L5",
+"level_n": 5,
+"codes": 32,
+"depth": 12,
+"norm": 1.3887,
+"eff_rank": 67.0343
+},
+{
+"id": "ncm-L6-0",
+"model": "ncm",
+"level": "L6",
+"level_n": 6,
+"codes": 40,
+"depth": 0,
+"norm": 2.0588,
+"eff_rank": 65.1542
+},
+{
+"id": "ncm-L6-1",
+"model": "ncm",
+"level": "L6",
+"level_n": 6,
+"codes": 40,
+"depth": 1,
+"norm": 1.5079,
+"eff_rank": 70.0632
+},
+{
+"id": "ncm-L6-2",
+"model": "ncm",
+"level": "L6",
+"level_n": 6,
+"codes": 40,
+"depth": 2,
+"norm": 1.3423,
+"eff_rank": 69.8177
+},
+{
+"id": "ncm-L6-3",
+"model": "ncm",
+"level": "L6",
+"level_n": 6,
+"codes": 40,
+"depth": 3,
+"norm": 1.4992,
+"eff_rank": 70.0301
+},
+{
+"id": "ncm-L6-4",
+"model": "ncm",
+"level": "L6",
+"level_n": 6,
+"codes": 40,
+"depth": 4,
+"norm": 1.6013,
+"eff_rank": 73.3698
+},
+{
+"id": "ncm-L6-5",
+"model": "ncm",
+"level": "L6",
+"level_n": 6,
+"codes": 40,
+"depth": 5,
+"norm": 1.6726,
+"eff_rank": 77.6184
+},
+{
+"id": "ncm-L6-6",
+"model": "ncm",
+"level": "L6",
+"level_n": 6,
+"codes": 40,
+"depth": 6,
+"norm": 1.8836,
+"eff_rank": 72.8993
+},
+{
+"id": "ncm-L6-7",
+"model": "ncm",
+"level": "L6",
+"level_n": 6,
+"codes": 40,
+"depth": 7,
+"norm": 1.9295,
+"eff_rank": 73.806
+},
+{
+"id": "ncm-L6-8",
+"model": "ncm",
+"level": "L6",
+"level_n": 6,
+"codes": 40,
+"depth": 8,
+"norm": 1.5766,
+"eff_rank": 78.401
+},
+{
+"id": "ncm-L6-9",
+"model": "ncm",
+"level": "L6",
+"level_n": 6,
+"codes": 40,
+"depth": 9,
+"norm": 1.5166,
+"eff_rank": 80.7843
+},
+{
+"id": "ncm-L6-10",
+"model": "ncm",
+"level": "L6",
+"level_n": 6,
+"codes": 40,
+"depth": 10,
+"norm": 1.1783,
+"eff_rank": 82.6674
+},
+{
+"id": "ncm-L6-11",
+"model": "ncm",
+"level": "L6",
+"level_n": 6,
+"codes": 40,
+"depth": 11,
+"norm": 0.9952,
+"eff_rank": 80.0464
+},
+{
+"id": "ncm-L6-12",
+"model": "ncm",
+"level": "L6",
+"level_n": 6,
+"codes": 40,
+"depth": 12,
+"norm": 1.182,
+"eff_rank": 53.0982
+},
+{
+"id": "ncm-L7-0",
+"model": "ncm",
+"level": "L7",
+"level_n": 7,
+"codes": 52,
+"depth": 0,
+"norm": 0.5897,
+"eff_rank": 60.3219
+},
+{
+"id": "ncm-L7-1",
+"model": "ncm",
+"level": "L7",
+"level_n": 7,
+"codes": 52,
+"depth": 1,
+"norm": 0.4803,
+"eff_rank": 76.9104
+},
+{
+"id": "ncm-L7-2",
+"model": "ncm",
+"level": "L7",
+"level_n": 7,
+"codes": 52,
+"depth": 2,
+"norm": 0.4676,
+"eff_rank": 72.7615
+},
+{
+"id": "ncm-L7-3",
+"model": "ncm",
+"level": "L7",
+"level_n": 7,
+"codes": 52,
+"depth": 3,
+"norm": 0.5154,
+"eff_rank": 84.4638
+},
+{
+"id": "ncm-L7-4",
+"model": "ncm",
+"level": "L7",
+"level_n": 7,
+"codes": 52,
+"depth": 4,
+"norm": 0.5638,
+"eff_rank": 88.1434
+},
+{
+"id": "ncm-L7-5",
+"model": "ncm",
+"level": "L7",
+"level_n": 7,
+"codes": 52,
+"depth": 5,
+"norm": 0.6192,
+"eff_rank": 86.1422
+},
+{
+"id": "ncm-L7-6",
+"model": "ncm",
+"level": "L7",
+"level_n": 7,
+"codes": 52,
+"depth": 6,
+"norm": 0.6629,
+"eff_rank": 85.3071
+},
+{
+"id": "ncm-L7-7",
+"model": "ncm",
+"level": "L7",
+"level_n": 7,
+"codes": 52,
+"depth": 7,
+"norm": 0.6838,
+"eff_rank": 82.8874
+},
+{
+"id": "ncm-L7-8",
+"model": "ncm",
+"level": "L7",
+"level_n": 7,
+"codes": 52,
+"depth": 8,
+"norm": 0.5959,
+"eff_rank": 80.2884
+},
+{
+"id": "ncm-L7-9",
+"model": "ncm",
+"level": "L7",
+"level_n": 7,
+"codes": 52,
+"depth": 9,
+"norm": 0.6,
+"eff_rank": 77.7795
+},
+{
+"id": "ncm-L7-10",
+"model": "ncm",
+"level": "L7",
+"level_n": 7,
+"codes": 52,
+"depth": 10,
+"norm": 0.531,
+"eff_rank": 65.6547
+},
+{
+"id": "ncm-L7-11",
+"model": "ncm",
+"level": "L7",
+"level_n": 7,
+"codes": 52,
+"depth": 11,
+"norm": 0.5262,
+"eff_rank": 60.057
+},
+{
+"id": "ncm-L7-12",
+"model": "ncm",
+"level": "L7",
+"level_n": 7,
+"codes": 52,
+"depth": 12,
+"norm": 0.8034,
+"eff_rank": 40.1834
+},
+{
+"id": "ncm-L8-0",
+"model": "ncm",
+"level": "L8",
+"level_n": 8,
+"codes": 64,
+"depth": 0,
+"norm": 0.2467,
+"eff_rank": 59.7641
+},
+{
+"id": "ncm-L8-1",
+"model": "ncm",
+"level": "L8",
+"level_n": 8,
+"codes": 64,
+"depth": 1,
+"norm": 0.2197,
+"eff_rank": 61.1483
+},
+{
+"id": "ncm-L8-2",
+"model": "ncm",
+"level": "L8",
+"level_n": 8,
+"codes": 64,
+"depth": 2,
+"norm": 0.2168,
+"eff_rank": 61.5023
+},
+{
+"id": "ncm-L8-3",
+"model": "ncm",
+"level": "L8",
+"level_n": 8,
+"codes": 64,
+"depth": 3,
+"norm": 0.233,
+"eff_rank": 62.7948
+},
+{
+"id": "ncm-L8-4",
+"model": "ncm",
+"level": "L8",
+"level_n": 8,
+"codes": 64,
+"depth": 4,
+"norm": 0.2389,
+"eff_rank": 65.5874
+},
+{
+"id": "ncm-L8-5",
+"model": "ncm",
+"level": "L8",
+"level_n": 8,
+"codes": 64,
+"depth": 5,
+"norm": 0.2534,
+"eff_rank": 64.3416
+},
+{
+"id": "ncm-L8-6",
+"model": "ncm",
+"level": "L8",
+"level_n": 8,
+"codes": 64,
+"depth": 6,
+"norm": 0.2374,
+"eff_rank": 62.8326
+},
+{
+"id": "ncm-L8-7",
+"model": "ncm",
+"level": "L8",
+"level_n": 8,
+"codes": 64,
+"depth": 7,
+"norm": 0.2205,
+"eff_rank": 57.6835
+},
+{
+"id": "ncm-L8-8",
+"model": "ncm",
+"level": "L8",
+"level_n": 8,
+"codes": 64,
+"depth": 8,
+"norm": 0.1806,
+"eff_rank": 48.6965
+},
+{
+"id": "ncm-L8-9",
+"model": "ncm",
+"level": "L8",
+"level_n": 8,
+"codes": 64,
+"depth": 9,
+"norm": 0.1662,
+"eff_rank": 42.2282
+},
+{
+"id": "ncm-L8-10",
+"model": "ncm",
+"level": "L8",
+"level_n": 8,
+"codes": 64,
+"depth": 10,
+"norm": 0.1442,
+"eff_rank": 30.5923
+},
+{
+"id": "ncm-L8-11",
+"model": "ncm",
+"level": "L8",
+"level_n": 8,
+"codes": 64,
+"depth": 11,
+"norm": 0.134,
+"eff_rank": 22.8118
+},
+{
+"id": "ncm-L8-12",
+"model": "ncm",
+"level": "L8",
+"level_n": 8,
+"codes": 64,
+"depth": 12,
+"norm": 0.1371,
+"eff_rank": 29.4248
+},
+{
+"id": "ncm-L9-0",
+"model": "ncm",
+"level": "L9",
+"level_n": 9,
+"codes": 76,
+"depth": 0,
+"norm": 0.5446,
+"eff_rank": 6.0344
+},
+{
+"id": "ncm-L9-1",
+"model": "ncm",
+"level": "L9",
+"level_n": 9,
+"codes": 76,
+"depth": 1,
+"norm": 0.3992,
+"eff_rank": 12.428
+},
+{
+"id": "ncm-L9-2",
+"model": "ncm",
+"level": "L9",
+"level_n": 9,
+"codes": 76,
+"depth": 2,
+"norm": 0.4086,
+"eff_rank": 10.5193
+},
+{
+"id": "ncm-L9-3",
+"model": "ncm",
+"level": "L9",
+"level_n": 9,
+"codes": 76,
+"depth": 3,
+"norm": 0.3597,
+"eff_rank": 17.4734
+},
+{
+"id": "ncm-L9-4",
+"model": "ncm",
+"level": "L9",
+"level_n": 9,
+"codes": 76,
+"depth": 4,
+"norm": 0.3707,
+"eff_rank": 17.5665
+},
+{
+"id": "ncm-L9-5",
+"model": "ncm",
+"level": "L9",
+"level_n": 9,
+"codes": 76,
+"depth": 5,
+"norm": 0.3953,
+"eff_rank": 18.0199
+},
+{
+"id": "ncm-L9-6",
+"model": "ncm",
+"level": "L9",
+"level_n": 9,
+"codes": 76,
+"depth": 6,
+"norm": 0.387,
+"eff_rank": 19.3816
+},
+{
+"id": "ncm-L9-7",
+"model": "ncm",
+"level": "L9",
+"level_n": 9,
+"codes": 76,
+"depth": 7,
+"norm": 0.3863,
+"eff_rank": 19.6331
+},
+{
+"id": "ncm-L9-8",
+"model": "ncm",
+"level": "L9",
+"level_n": 9,
+"codes": 76,
+"depth": 8,
+"norm": 0.3965,
+"eff_rank": 16.4363
+},
+{
+"id": "ncm-L9-9",
+"model": "ncm",
+"level": "L9",
+"level_n": 9,
+"codes": 76,
+"depth": 9,
+"norm": 0.4326,
+"eff_rank": 14.9898
+},
+{
+"id": "ncm-L9-10",
+"model": "ncm",
+"level": "L9",
+"level_n": 9,
+"codes": 76,
+"depth": 10,
+"norm": 0.4451,
+"eff_rank": 14.5615
+},
+{
+"id": "ncm-L9-11",
+"model": "ncm",
+"level": "L9",
+"level_n": 9,
+"codes": 76,
+"depth": 11,
+"norm": 0.4369,
+"eff_rank": 16.0053
+},
+{
+"id": "ncm-L9-12",
+"model": "ncm",
+"level": "L9",
+"level_n": 9,
+"codes": 76,
+"depth": 12,
+"norm": 0.8641,
+"eff_rank": 6.6175
+},
+{
+"id": "ncm-L10-0",
+"model": "ncm",
+"level": "L10",
+"level_n": 10,
+"codes": 92,
+"depth": 0,
+"norm": 0.6132,
+"eff_rank": 4.6923
+},
+{
+"id": "ncm-L10-1",
+"model": "ncm",
+"level": "L10",
+"level_n": 10,
+"codes": 92,
+"depth": 1,
+"norm": 0.3885,
+"eff_rank": 13.2037
+},
+{
+"id": "ncm-L10-2",
+"model": "ncm",
+"level": "L10",
+"level_n": 10,
+"codes": 92,
+"depth": 2,
+"norm": 0.3855,
+"eff_rank": 11.7767
+},
+{
+"id": "ncm-L10-3",
+"model": "ncm",
+"level": "L10",
+"level_n": 10,
+"codes": 92,
+"depth": 3,
+"norm": 0.3453,
+"eff_rank": 15.8685
+},
+{
+"id": "ncm-L10-4",
+"model": "ncm",
+"level": "L10",
+"level_n": 10,
+"codes": 92,
+"depth": 4,
+"norm": 0.3446,
+"eff_rank": 16.3056
+},
+{
+"id": "ncm-L10-5",
+"model": "ncm",
+"level": "L10",
+"level_n": 10,
+"codes": 92,
+"depth": 5,
+"norm": 0.3652,
+"eff_rank": 16.9347
+},
+{
+"id": "ncm-L10-6",
+"model": "ncm",
+"level": "L10",
+"level_n": 10,
+"codes": 92,
+"depth": 6,
+"norm": 0.3548,
+"eff_rank": 17.9149
+},
+{
+"id": "ncm-L10-7",
+"model": "ncm",
+"level": "L10",
+"level_n": 10,
+"codes": 92,
+"depth": 7,
+"norm": 0.3597,
+"eff_rank": 17.1842
+},
+{
+"id": "ncm-L10-8",
+"model": "ncm",
+"level": "L10",
+"level_n": 10,
+"codes": 92,
+"depth": 8,
+"norm": 0.3807,
+"eff_rank": 15.2809
+},
+{
+"id": "ncm-L10-9",
+"model": "ncm",
+"level": "L10",
+"level_n": 10,
+"codes": 92,
+"depth": 9,
+"norm": 0.4301,
+"eff_rank": 12.8489
+},
+{
+"id": "ncm-L10-10",
+"model": "ncm",
+"level": "L10",
+"level_n": 10,
+"codes": 92,
+"depth": 10,
+"norm": 0.4506,
+"eff_rank": 12.9833
+},
+{
+"id": "ncm-L10-11",
+"model": "ncm",
+"level": "L10",
+"level_n": 10,
+"codes": 92,
+"depth": 11,
+"norm": 0.433,
+"eff_rank": 13.7896
+},
+{
+"id": "ncm-L10-12",
+"model": "ncm",
+"level": "L10",
+"level_n": 10,
+"codes": 92,
+"depth": 12,
+"norm": 1.0039,
+"eff_rank": 3.4729
+},
+{
+"id": "ncm-L11-0",
+"model": "ncm",
+"level": "L11",
+"level_n": 11,
+"codes": 108,
+"depth": 0,
+"norm": 0.369,
+"eff_rank": 10.7971
+},
+{
+"id": "ncm-L11-1",
+"model": "ncm",
+"level": "L11",
+"level_n": 11,
+"codes": 108,
+"depth": 1,
+"norm": 0.2811,
+"eff_rank": 18.4494
+},
+{
+"id": "ncm-L11-2",
+"model": "ncm",
+"level": "L11",
+"level_n": 11,
+"codes": 108,
+"depth": 2,
+"norm": 0.2711,
+"eff_rank": 18.68
+},
+{
+"id": "ncm-L11-3",
+"model": "ncm",
+"level": "L11",
+"level_n": 11,
+"codes": 108,
+"depth": 3,
+"norm": 0.2595,
+"eff_rank": 21.3522
+},
+{
+"id": "ncm-L11-4",
+"model": "ncm",
+"level": "L11",
+"level_n": 11,
+"codes": 108,
+"depth": 4,
+"norm": 0.2563,
+"eff_rank": 23.2599
+},
+{
+"id": "ncm-L11-5",
+"model": "ncm",
+"level": "L11",
+"level_n": 11,
+"codes": 108,
+"depth": 5,
+"norm": 0.2687,
+"eff_rank": 24.9147
+},
+{
+"id": "ncm-L11-6",
+"model": "ncm",
+"level": "L11",
+"level_n": 11,
+"codes": 108,
+"depth": 6,
+"norm": 0.2641,
+"eff_rank": 25.9397
+},
+{
+"id": "ncm-L11-7",
+"model": "ncm",
+"level": "L11",
+"level_n": 11,
+"codes": 108,
+"depth": 7,
+"norm": 0.2657,
+"eff_rank": 25.3773
+},
+{
+"id": "ncm-L11-8",
+"model": "ncm",
+"level": "L11",
+"level_n": 11,
+"codes": 108,
+"depth": 8,
+"norm": 0.2837,
+"eff_rank": 21.9141
+},
+{
+"id": "ncm-L11-9",
+"model": "ncm",
+"level": "L11",
+"level_n": 11,
+"codes": 108,
+"depth": 9,
+"norm": 0.322,
+"eff_rank": 18.0172
+},
+{
+"id": "ncm-L11-10",
+"model": "ncm",
+"level": "L11",
+"level_n": 11,
+"codes": 108,
+"depth": 10,
+"norm": 0.3293,
+"eff_rank": 20.1744
+},
+{
+"id": "ncm-L11-11",
+"model": "ncm",
+"level": "L11",
+"level_n": 11,
+"codes": 108,
+"depth": 11,
+"norm": 0.3134,
+"eff_rank": 23.0688
+},
+{
+"id": "ncm-L11-12",
+"model": "ncm",
+"level": "L11",
+"level_n": 11,
+"codes": 108,
+"depth": 12,
+"norm": 0.6681,
+"eff_rank": 6.0411
+},
+{
+"id": "ncm-L12-0",
+"model": "ncm",
+"level": "L12",
+"level_n": 12,
+"codes": 128,
+"depth": 0,
+"norm": 0.064,
+"eff_rank": 38.8374
+},
+{
+"id": "ncm-L12-1",
+"model": "ncm",
+"level": "L12",
+"level_n": 12,
+"codes": 128,
+"depth": 1,
+"norm": 0.0632,
+"eff_rank": 39.0364
+},
+{
+"id": "ncm-L12-2",
+"model": "ncm",
+"level": "L12",
+"level_n": 12,
+"codes": 128,
+"depth": 2,
+"norm": 0.0643,
+"eff_rank": 38.9833
+},
+{
+"id": "ncm-L12-3",
+"model": "ncm",
+"level": "L12",
+"level_n": 12,
+"codes": 128,
+"depth": 3,
+"norm": 0.0718,
+"eff_rank": 40.4721
+},
+{
+"id": "ncm-L12-4",
+"model": "ncm",
+"level": "L12",
+"level_n": 12,
+"codes": 128,
+"depth": 4,
+"norm": 0.0764,
+"eff_rank": 45.2222
+},
+{
+"id": "ncm-L12-5",
+"model": "ncm",
+"level": "L12",
+"level_n": 12,
+"codes": 128,
+"depth": 5,
+"norm": 0.0804,
+"eff_rank": 50.4296
+},
+{
+"id": "ncm-L12-6",
+"model": "ncm",
+"level": "L12",
+"level_n": 12,
+"codes": 128,
+"depth": 6,
+"norm": 0.0836,
+"eff_rank": 50.4022
+},
+{
+"id": "ncm-L12-7",
+"model": "ncm",
+"level": "L12",
+"level_n": 12,
+"codes": 128,
+"depth": 7,
+"norm": 0.0828,
+"eff_rank": 49.8387
+},
+{
+"id": "ncm-L12-8",
+"model": "ncm",
+"level": "L12",
+"level_n": 12,
+"codes": 128,
+"depth": 8,
+"norm": 0.0753,
+"eff_rank": 45.2797
+},
+{
+"id": "ncm-L12-9",
+"model": "ncm",
+"level": "L12",
+"level_n": 12,
+"codes": 128,
+"depth": 9,
+"norm": 0.078,
+"eff_rank": 36.7776
+},
+{
+"id": "ncm-L12-10",
+"model": "ncm",
+"level": "L12",
+"level_n": 12,
+"codes": 128,
+"depth": 10,
+"norm": 0.0727,
+"eff_rank": 28.6293
+},
+{
+"id": "ncm-L12-11",
+"model": "ncm",
+"level": "L12",
+"level_n": 12,
+"codes": 128,
+"depth": 11,
+"norm": 0.056,
+"eff_rank": 25.7725
+},
+{
+"id": "ncm-L12-12",
+"model": "ncm",
+"level": "L12",
+"level_n": 12,
+"codes": 128,
+"depth": 12,
+"norm": 0.0521,
+"eff_rank": 32.7364
+},
+{
+"id": "control-0",
+"model": "control",
+"level": "control",
+"level_n": null,
+"codes": null,
+"depth": 0,
+"norm": 545.1821,
+"eff_rank": 163.1301
+},
+{
+"id": "control-1",
+"model": "control",
+"level": "control",
+"level_n": null,
+"codes": null,
+"depth": 1,
+"norm": 105.7357,
+"eff_rank": 266.9969
+},
+{
+"id": "control-2",
+"model": "control",
+"level": "control",
+"level_n": null,
+"codes": null,
+"depth": 2,
+"norm": 108.2015,
+"eff_rank": 297.377
+},
+{
+"id": "control-3",
+"model": "control",
+"level": "control",
+"level_n": null,
+"codes": null,
+"depth": 3,
+"norm": 96.834,
+"eff_rank": 394.3843
+},
+{
+"id": "control-4",
+"model": "control",
+"level": "control",
+"level_n": null,
+"codes": null,
+"depth": 4,
+"norm": 66.2901,
+"eff_rank": 760.3215
+}
+]

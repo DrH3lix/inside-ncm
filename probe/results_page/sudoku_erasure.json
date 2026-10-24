@@ -1,0 +1,79 @@
+[
+{
+"id": "ref-L1",
+"ref": "L1",
+"ref_n": 1,
+"menu": 5.93,
+"d_rej": -1.78,
+"d_neu": -0.77,
+"gap": 1.65,
+"gap_easy": 1.72,
+"below": 0.206
+},
+{
+"id": "ref-L4",
+"ref": "L4",
+"ref_n": 4,
+"menu": 5.28,
+"d_rej": -1.8,
+"d_neu": -0.8,
+"gap": 1.9,
+"gap_easy": 1.94,
+"below": 0.169
+},
+{
+"id": "ref-L6",
+"ref": "L6",
+"ref_n": 6,
+"menu": 4.49,
+"d_rej": -2.09,
+"d_neu": 0.39,
+"gap": 1.06,
+"gap_easy": 1.52,
+"below": 0.258
+},
+{
+"id": "ref-L8",
+"ref": "L8",
+"ref_n": 8,
+"menu": 3.21,
+"d_rej": -3.5,
+"d_neu": 0.41,
+"gap": 1.22,
+"gap_easy": 1.54,
+"below": 0.247
+},
+{
+"id": "ref-L9",
+"ref": "L9",
+"ref_n": 9,
+"menu": 2.36,
+"d_rej": -4.58,
+"d_neu": 0.13,
+"gap": 1.33,
+"gap_easy": 1.66,
+"below": 0.282
+},
+{
+"id": "ref-L10",
+"ref": "L10",
+"ref_n": 10,
+"menu": 1.84,
+"d_rej": -5.24,
+"d_neu": -0.04,
+"gap": 1.62,
+"gap_easy": 2.06,
+"below": 0.266
+},
+{
+"id": "ref-L11",
+"ref": "L11",
+"ref_n": 11,
+"menu": 1.58,
+"d_rej": -5.47,
+"d_neu": -0.04,
+"gap": 2.52,
+"gap_easy": 3.03,
+"below": 0.148
+}
+]

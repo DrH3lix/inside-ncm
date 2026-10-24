@@ -1,0 +1,338 @@
+[
+{
+"id": "hard-clue-L1",
+"task": "hard",
+"kind": "clue",
+"level_n": 1,
+"acc": 0.1506
+},
+{
+"id": "hard-blank-L1",
+"task": "hard",
+"kind": "blank",
+"level_n": 1,
+"acc": 0.141
+},
+{
+"id": "hard-clue-L2",
+"task": "hard",
+"kind": "clue",
+"level_n": 2,
+"acc": 0.1499
+},
+{
+"id": "hard-blank-L2",
+"task": "hard",
+"kind": "blank",
+"level_n": 2,
+"acc": 0.1415
+},
+{
+"id": "hard-clue-L3",
+"task": "hard",
+"kind": "clue",
+"level_n": 3,
+"acc": 0.1743
+},
+{
+"id": "hard-blank-L3",
+"task": "hard",
+"kind": "blank",
+"level_n": 3,
+"acc": 0.167
+},
+{
+"id": "hard-clue-L4",
+"task": "hard",
+"kind": "clue",
+"level_n": 4,
+"acc": 0.2071
+},
+{
+"id": "hard-blank-L4",
+"task": "hard",
+"kind": "blank",
+"level_n": 4,
+"acc": 0.1992
+},
+{
+"id": "hard-clue-L5",
+"task": "hard",
+"kind": "clue",
+"level_n": 5,
+"acc": 0.2069
+},
+{
+"id": "hard-blank-L5",
+"task": "hard",
+"kind": "blank",
+"level_n": 5,
+"acc": 0.1991
+},
+{
+"id": "hard-clue-L6",
+"task": "hard",
+"kind": "clue",
+"level_n": 6,
+"acc": 0.2847
+},
+{
+"id": "hard-blank-L6",
+"task": "hard",
+"kind": "blank",
+"level_n": 6,
+"acc": 0.274
+},
+{
+"id": "hard-clue-L7",
+"task": "hard",
+"kind": "clue",
+"level_n": 7,
+"acc": 0.3368
+},
+{
+"id": "hard-blank-L7",
+"task": "hard",
+"kind": "blank",
+"level_n": 7,
+"acc": 0.3265
+},
+{
+"id": "hard-clue-L8",
+"task": "hard",
+"kind": "clue",
+"level_n": 8,
+"acc": 0.4661
+},
+{
+"id": "hard-blank-L8",
+"task": "hard",
+"kind": "blank",
+"level_n": 8,
+"acc": 0.4468
+},
+{
+"id": "hard-clue-L9",
+"task": "hard",
+"kind": "clue",
+"level_n": 9,
+"acc": 0.6315
+},
+{
+"id": "hard-blank-L9",
+"task": "hard",
+"kind": "blank",
+"level_n": 9,
+"acc": 0.6118
+},
+{
+"id": "hard-clue-L10",
+"task": "hard",
+"kind": "clue",
+"level_n": 10,
+"acc": 0.7755
+},
+{
+"id": "hard-blank-L10",
+"task": "hard",
+"kind": "blank",
+"level_n": 10,
+"acc": 0.7453
+},
+{
+"id": "hard-clue-L11",
+"task": "hard",
+"kind": "clue",
+"level_n": 11,
+"acc": 0.8364
+},
+{
+"id": "hard-blank-L11",
+"task": "hard",
+"kind": "blank",
+"level_n": 11,
+"acc": 0.8046
+},
+{
+"id": "hard-clue-L12",
+"task": "hard",
+"kind": "clue",
+"level_n": 12,
+"acc": 1.0
+},
+{
+"id": "hard-blank-L12",
+"task": "hard",
+"kind": "blank",
+"level_n": 12,
+"acc": 0.9702
+},
+{
+"id": "easy-clue-L1",
+"task": "easy",
+"kind": "clue",
+"level_n": 1,
+"acc": 0.1483
+},
+{
+"id": "easy-blank-L1",
+"task": "easy",
+"kind": "blank",
+"level_n": 1,
+"acc": 0.1487
+},
+{
+"id": "easy-clue-L2",
+"task": "easy",
+"kind": "clue",
+"level_n": 2,
+"acc": 0.1476
+},
+{
+"id": "easy-blank-L2",
+"task": "easy",
+"kind": "blank",
+"level_n": 2,
+"acc": 0.147
+},
+{
+"id": "easy-clue-L3",
+"task": "easy",
+"kind": "clue",
+"level_n": 3,
+"acc": 0.1697
+},
+{
+"id": "easy-blank-L3",
+"task": "easy",
+"kind": "blank",
+"level_n": 3,
+"acc": 0.1706
+},
+{
+"id": "easy-clue-L4",
+"task": "easy",
+"kind": "clue",
+"level_n": 4,
+"acc": 0.2079
+},
+{
+"id": "easy-blank-L4",
+"task": "easy",
+"kind": "blank",
+"level_n": 4,
+"acc": 0.2061
+},
+{
+"id": "easy-clue-L5",
+"task": "easy",
+"kind": "clue",
+"level_n": 5,
+"acc": 0.2053
+},
+{
+"id": "easy-blank-L5",
+"task": "easy",
+"kind": "blank",
+"level_n": 5,
+"acc": 0.2041
+},
+{
+"id": "easy-clue-L6",
+"task": "easy",
+"kind": "clue",
+"level_n": 6,
+"acc": 0.2883
+},
+{
+"id": "easy-blank-L6",
+"task": "easy",
+"kind": "blank",
+"level_n": 6,
+"acc": 0.2849
+},
+{
+"id": "easy-clue-L7",
+"task": "easy",
+"kind": "clue",
+"level_n": 7,
+"acc": 0.3574
+},
+{
+"id": "easy-blank-L7",
+"task": "easy",
+"kind": "blank",
+"level_n": 7,
+"acc": 0.3627
+},
+{
+"id": "easy-clue-L8",
+"task": "easy",
+"kind": "clue",
+"level_n": 8,
+"acc": 0.4884
+},
+{
+"id": "easy-blank-L8",
+"task": "easy",
+"kind": "blank",
+"level_n": 8,
+"acc": 0.492
+},
+{
+"id": "easy-clue-L9",
+"task": "easy",
+"kind": "clue",
+"level_n": 9,
+"acc": 0.6527
+},
+{
+"id": "easy-blank-L9",
+"task": "easy",
+"kind": "blank",
+"level_n": 9,
+"acc": 0.6521
+},
+{
+"id": "easy-clue-L10",
+"task": "easy",
+"kind": "clue",
+"level_n": 10,
+"acc": 0.8178
+},
+{
+"id": "easy-blank-L10",
+"task": "easy",
+"kind": "blank",
+"level_n": 10,
+"acc": 0.8149
+},
+{
+"id": "easy-clue-L11",
+"task": "easy",
+"kind": "clue",
+"level_n": 11,
+"acc": 0.8677
+},
+{
+"id": "easy-blank-L11",
+"task": "easy",
+"kind": "blank",
+"level_n": 11,
+"acc": 0.8628
+},
+{
+"id": "easy-clue-L12",
+"task": "easy",
+"kind": "clue",
+"level_n": 12,
+"acc": 1.0
+},
+{
+"id": "easy-blank-L12",
+"task": "easy",
+"kind": "blank",
+"level_n": 12,
+"acc": 0.9995
+}
+]
